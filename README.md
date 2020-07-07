@@ -1,3 +1,4 @@
+![Profile Photo](./img_profile.jpg)
 # Ryan McGuiness
 Hello! I am Computer Science and Economics major at Lehigh University.
 I came into Lehigh as a January admit and have been working hard to graduate with the class of 2021.
