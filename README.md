@@ -1,1 +1,0 @@
-# rymcguin.github.io
