@@ -8,7 +8,7 @@ A few of my projects include a personal resume page at [ryanmcguiness.com](https
 I have also created a website that provides book recomendations which could be seen at [booksthatmakeyousmarter.com](https://booksthatmakeyousmarter.com). It is an amazon associated website, so whenever people purchase a book, I recieve a percentage.
 
 ![line graph](emissions-.png)
-![column graph](column-chart.png)
+![column graph](columnChart.png)
 
 
 
