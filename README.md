@@ -6,3 +6,12 @@ I came into Lehigh as a January admit and have been working hard to graduate wit
 I'm interning at start up company while also doing projects on the side. 
 A few of my projects include a personal resume page at [ryanmcguiness.com](https://ryanmcguiness.com). 
 I have also created a website that provides book recomendations which could be seen at [booksthatmakeyousmarter.com](https://booksthatmakeyousmarter.com). It is an amazon associated website, so whenever people purchase a book, I recieve a percentage.
+
+![line graph](emissions-.png)
+![column graph](column-chart.png)
+
+
+
+
+
+
