@@ -11,7 +11,11 @@ I have also created a website that provides book recomendations which could be s
 ![column graph](columnChart.png)
 
 
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="BLM Movement" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=5f390d2037fd44c597c48152b7722d36&extent=-135.4639,21.5808,-41.7725,57.2582&zoom=true&previewImage=true&scale=true&disable_scroll=true&theme=dark"></iframe></div> 
+
+<div class="embed-container">
+<iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="BLM Movement" src="//lu.maps.arcgis.com/apps/Embed/index.html?webmap=5f390d2037fd44c597c48152b7722d36&extent=-135.4639,21.5808,-41.7725,57.2582&zoom=true&previewImage=true&scale=true&disable_scroll=true&theme=dark">
+</iframe>
+</div> 
 
 
 
