@@ -7,9 +7,6 @@ I'm interning at start up company while also doing projects on the side.
 A few of my projects include a personal resume page at [ryanmcguiness.com](https://ryanmcguiness.com). 
 I have also created a website that provides book recomendations which could be seen at [booksthatmakeyousmarter.com](https://booksthatmakeyousmarter.com). It is an amazon associated website, so whenever people purchase a book, I recieve a percentage.
 
-![line graph](emissions-.png)
-![column graph](columnChart.png)
-
 
 # #BLM Visualization
 This grah provides a visualization of the black lives matter hashtag across the United States. As you can tell from the graph this righteous movement has swept the nation. The heat map shows that this movment has gained the most traction in cities on both the east and west coast. There are some cold spots in the central states, which could be easily explained by the majority of white population living in those states. I am definitely not saying that their failuer to participate in this movement is justified, but is not shocking. It is also visible that these hashtags are being tweeted near the areas that are having protests.  
@@ -20,5 +17,5 @@ This grah provides a visualization of the black lives matter hashtag across the 
 </div> 
 
 
-
-
+![line graph](emissions-.png)
+![column graph](columnChart.png)
