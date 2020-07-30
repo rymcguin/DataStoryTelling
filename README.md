@@ -12,7 +12,6 @@ I have also created a website that provides book recomendations which could be s
 # US Beer Consumption
 
 - Author: Ryan McGuiness
-- Data source : [beerstatistics](https://www.ttb.gov/beer/statistics)
 
 The map below shows the consumption of beer across the United States. I was not directly looking for this data set, but it had very neat data that had a lot of useful variables. The operations that I mostly used in this representation was geo-location and sum. With these two functions I was able to put together this map that makes it easy to tell which states consume the most kegs and barrels. The pie chart on the bottom right is the representation of bottle and can consumption. Not much changed, however Colorado did take the lead away from California in bottle and can consumption. With this data alcoholic beverage companies can better focus their advertisements to capture more of the market at a lower cost, by focusing their adds by location.
 
@@ -37,6 +36,8 @@ The map below shows the consumption of beer across the United States. I was not 
 </object>
 </div>               
  
+Data source : [beerstatistics](https://www.ttb.gov/beer/statistics)
+
 
 # #BLM Visualization
 
