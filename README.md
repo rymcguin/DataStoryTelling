@@ -12,29 +12,8 @@ I have also created a website that provides book recomendations which could be s
 # US Beer Consumption
 
 - Author: Ryan McGuiness
-- Data Source: https://www.ttb.gov/beer/statistics
 
 The map below shows the consumption of beer across the United States. I was not directly looking for this data set, but it had very neat data that had a lot of useful variables. The operations that I mostly used in this representation was geo-location and sum. With these two functions I was able to put together this map that makes it easy to tell which states consume the most kegs and barrels. The pie chart on the bottom right is the representation of bottle and can consumption. Not much changed, however Colorado did take the lead away from California in bottle and can consumption. With this data alcoholic beverage companies can better focus their advertisements to capture more of the market at a lower cost, by focusing their adds by location.
-
-<div class='tableauPlaceholder' id='viz1596145307763' style='position: relative'>
-<noscript>
-<a href='https:&#47;&#47;rymcguin.github.io&#47;'>
-<img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;W5&#47;W58CJ9Z7K&#47;1_rss.png' style='border: none' />
-</a>
-</noscript>
-<object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-<param name='embed_code_version' value='3' /> 
-<param name='path' value='shared&#47;W58CJ9Z7K' /> 
-<param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;W5&#47;W58CJ9Z7K&#47;1.png' /> 
-<param name='animate_transition' value='yes' />
-<param name='display_static_image' value='yes' />
-<param name='display_spinner' value='yes' />
-<param name='display_overlay' value='yes' />
-<param name='display_count' value='yes' />
-<param name='language' value='en' />
-<param name='filter' value='publish=yes' />
-</object>
-</div>
 
 <div class='tableauPlaceholder' id='viz1596145574060' style='position: relative'>
 <noscript>
