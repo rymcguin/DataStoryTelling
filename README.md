@@ -36,7 +36,7 @@ The map below shows the consumption of beer across the United States. I was not 
 </object>
 </div>               
  
-Data source : [beerstatistics](https://www.ttb.gov/beer/statistics)
+Data source: [beerstatistics](https://www.ttb.gov/beer/statistics)
 
 
 # #BLM Visualization
