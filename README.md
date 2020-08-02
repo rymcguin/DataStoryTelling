@@ -48,7 +48,8 @@ This grah provides a visualization of the black lives matter hashtag across the 
 </iframe>
 </div>
 
-![line graph](emissions-.png)
+<iframe title="Line chart of Emissions " aria-label="Interactive line chart" id="datawrapper-chart-wq3XN" src="https://datawrapper.dwcdn.net/wq3XN/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe>
+
 <iframe title="Column Chart of Global Emissions" aria-label="chart" id="datawrapper-chart-hVImG" src="https://datawrapper.dwcdn.net/hVImG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="526">
 </iframe>
 
