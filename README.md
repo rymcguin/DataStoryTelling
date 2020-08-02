@@ -48,6 +48,10 @@ This grah provides a visualization of the black lives matter hashtag across the 
 </iframe>
 </div>
 
+
+# Datawrapper Graphs
+These graphs show how much fuel emessions have risen over the past decades. It follows emssions of solid, liquid, and gass fuels; as well as cement production and gass flaring. It has data going back to 1850's and follows it all the way to 2010's. Solid and liquid fuel are the leaders in emissions and are currently at record highs. Liquid fuel had an exponential curve from 1920-1970 and then has gradually increased over recent years. While solid fuels had a gradual increase over the entire timeline, and spiked in then 2000's. 
+
 <iframe title="Line chart of Emissions " aria-label="Interactive line chart" id="datawrapper-chart-wq3XN" src="https://datawrapper.dwcdn.net/wq3XN/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe>
 
 <iframe title="Column Chart of Global Emissions" aria-label="chart" id="datawrapper-chart-hVImG" src="https://datawrapper.dwcdn.net/hVImG/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="526">
