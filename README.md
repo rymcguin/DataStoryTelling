@@ -17,7 +17,8 @@ I have also created a website that provides book recomendations which could be s
 <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;4K&#47;4K5P8KYBW&#47;1_rss.png' style='border: none' />
 </a>
 </noscript>
-<object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+<object class='tableauViz'  style='display:none;'>
+<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'/> 
 <param name='embed_code_version' value='3' /> 
 <param name='path' value='shared&#47;4K5P8KYBW' /> 
 <param name='toolbar' value='yes' />
@@ -45,7 +46,8 @@ The map below shows the consumption of beer across the United States. I was not 
 <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;2R&#47;2R5ZC88BB&#47;1_rss.png' style='border: none' />
 </a>
 </noscript>
-<object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+<object class='tableauViz'  style='display:none;'>
+<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
 <param name='embed_code_version' value='3' /> 
 <param name='path' value='shared&#47;2R5ZC88BB' /> 
 <param name='toolbar' value='yes' />
@@ -60,7 +62,6 @@ The map below shows the consumption of beer across the United States. I was not 
 </object>
 </div>               
  
-Data source: [beerstatistics](https://www.ttb.gov/beer/statistics)
 
 
 # #BLM Visualization
