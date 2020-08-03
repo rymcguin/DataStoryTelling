@@ -30,7 +30,14 @@ I have also created a website that provides book recomendations which could be s
 		<param name='filter' value='publish=yes' />
 	</object>
 </div>
-
+<script type='text/javascript'>
+	var divElement = document.getElementById('viz1596414876013');
+	var vizElement = divElement.getElementsByTagName('object')[0];
+	vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+	var scriptElement = document.createElement('script'); 
+	scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+	vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 # US Beer Consumption
 
@@ -56,8 +63,7 @@ The map below shows the consumption of beer across the United States. I was not 
 		<param name='language' value='en' />
 		<param name='filter' value='publish=yes' />
 	</object>
-</div>         
-
+</div>
 
 # #BLM Visualization
 
