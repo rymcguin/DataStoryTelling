@@ -11,34 +11,7 @@ I have also created a website that provides book recomendations which could be s
 
 # Tableau Story on US Beer Consumption 2008-2019
 
-<div class='tableauPlaceholder' id='viz1596414876013' style='position: relative'>
-	<a href='https:&#47;&#47;rymcguin.github.io&#47;'>
-		<img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;4K&#47;4K5P8KYBW&#47;1_rss.png' style='border: none' />
-	</a>
-	<object class='tableauViz'  style='display:none;'>
-		<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'/> 
-		<param name='embed_code_version' value='3' /> 
-		<param name='path' value='shared&#47;4K5P8KYBW' /> 
-		<param name='toolbar' value='yes' />
-		<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;4K&#47;4K5P8KYBW&#47;1.png' /> 
-		<param name='animate_transition' value='yes' />
-		<param name='display_static_image' value='yes' />
-		<param name='display_spinner' value='yes' />
-		<param name='display_overlay' value='yes' />
-		<param name='display_count' value='yes' />
-		<param name='language' value='en' />
-		<param name='filter' value='publish=yes' />
-	</object>
-</div>
-<script type='text/javascript'>
-	var divElement = document.getElementById('viz1596414876013');
-	var vizElement = divElement.getElementsByTagName('object')[0];
-	vizElement.style.width='100%';
-	vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-	var scriptElement = document.createElement('script'); 
-	scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-	vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
+<div class='tableauPlaceholder' id='viz1596990664488' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USBeerConsumption2008-2019&#47;USBeer2008-2019&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='USBeerConsumption2008-2019&#47;USBeer2008-2019' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USBeerConsumption2008-2019&#47;USBeer2008-2019&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1596990664488');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 # US Beer Consumption
 
@@ -46,26 +19,7 @@ I have also created a website that provides book recomendations which could be s
 
 The map below shows the consumption of beer across the United States. I was not directly looking for this data set, but it had very neat data that had a lot of useful variables. The operations that I mostly used in this representation was geo-location and sum. With these two functions I was able to put together this map that makes it easy to tell which states consume the most kegs and barrels. The pie chart on the bottom right is the representation of bottle and can consumption. Not much changed, however Colorado did take the lead away from California in bottle and can consumption. With this data alcoholic beverage companies can better focus their advertisements to capture more of the market at a lower cost, by focusing their adds by location.
 
-<div class='tableauPlaceholder' id='viz1596145574060' style='position: relative'>
-	<a href='https:&#47;&#47;rymcguin.github.io&#47;'>
-		<img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;2R&#47;2R5ZC88BB&#47;1_rss.png' style='border: none' />
-	</a>
-	<object class='tableauViz'  style='display:none;'>
-		<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-		<param name='embed_code_version' value='3' />
-		<param name='path' value='shared&#47;2R5ZC88BB' />
-		<param name='toolbar' value='yes' />
-		<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;2R&#47;2R5ZC88BB&#47;1.png' />
-		<param name='animate_transition' value='yes' />
-		<param name='display_static_image' value='yes' />
-		<param name='display_spinner' value='yes' />
-		<param name='display_overlay' value='yes' />
-		<param name='display_count' value='yes' />
-		<param name='language' value='en' />
-		<param name='filter' value='publish=yes' />
-	</object>
-</div>
-
+<div class='tableauPlaceholder' id='viz1596990027295' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;75&#47;75TW23M5H&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;75TW23M5H' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;75&#47;75TW23M5H&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1596990027295');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 # #BLM Visualization
 
 This grah provides a visualization of the black lives matter hashtag across the United States. As you can tell from the graph this righteous movement has swept the nation. The heat map shows that this movment has gained traction almost everywhere. There are some cold spots in the central states, which could be easily explained by the majority of white population living in those states. I am definitely not saying that their failuer to participate in this movement is justified, but is not shocking. It is also visible that these hashtags are being tweeted near the areas that are having protests.
